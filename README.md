@@ -143,8 +143,6 @@ We compare ReinforceTree against the following continual learning baselines used
 
 ## Citation
 
-If you use this code, please cite the original TreeLoRA paper:
-
 ```bibtex
 @misc{NeurIPS'26:ReinforceTree,
     author = {Anonymous Authors},
@@ -153,3 +151,4 @@ If you use this code, please cite the original TreeLoRA paper:
     note   = {Under review at NeurIPS 2026}
 }
 ```
+The citation entry will be updated to the official version upon publication.
