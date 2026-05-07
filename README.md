@@ -26,7 +26,7 @@ This repository contains the official PyTorch implementation of **ReinforceTree*
 │   └── collect_results.py        # Aggregates per-task evaluation
 ├── scripts/                      # Training and evaluation scripts
 │   ├── lora_based_methods/
-│   │   └── Reinforcetree.sh          # Main training script (supports --use_ppo)
+│   │   └── ReinforceTree.sh          # Main training script (supports --use_ppo)
 │   └── run_all_exps.sh           # Run all experiments
 ├── evaluations/                  # Per-task evaluation scripts
 └── requirements.txt              # Python dependencies
