@@ -146,11 +146,10 @@ We compare ReinforceTree against the following continual learning baselines used
 If you use this code, please cite the original TreeLoRA paper:
 
 ```bibtex
-@inproceedings{ICML'25:TreeLoRA,
-    author    = {Yu-Yang Qian and Yuan-Ze Xu and Zhen-Yu Zhang and Peng Zhao and Zhi-Hua Zhou},
-    title     = {{T}ree{L}o{RA}: Efficient Continual Learning via Layer-Wise {L}o{RA}s Guided by a Hierarchical Gradient-Similarity Tree},
-    booktitle = {Proceedings of the 42nd International Conference on Machine Learning (ICML)},
-    year      = {2025},
-    pages     = {50066--50085}
+@misc{NeurIPS'26:ReinforceTree,
+    author = {Anonymous Authors},
+    title  = {{R}einforce{T}ree: {PPO}-Guided Adaptive {L}o{RA} Routing for Continual Learning},
+    year   = {2026},
+    note   = {Under review at NeurIPS 2026}
 }
 ```
