@@ -145,7 +145,7 @@ We compare ReinforceTree against the following continual learning baselines used
 ```bibtex
 @misc{NeurIPS'26:ReinforceTree,
     author = {Anonymous Authors},
-    title  = {{R}einforce{T}ree: {PPO}-Guided Adaptive {L}o{RA} Routing for Continual Learning},
+    title  = {ReinforceTree: PPO-Guided Adaptive LoRA Routing for Continual Learning},
     year   = {2026},
     note   = {Under review at NeurIPS 2026}
 }
