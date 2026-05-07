@@ -23,6 +23,13 @@ export DS_BUILD_FUSED_ADAM=1
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 model_name="Llama-3.2-1B-Instruct"
+#model_name="Llama-2-7b-chat"
+#model_name="Llama-3.1-8B-Instruct"
+#model_name="Llama-3.2-1B-Instruct"
+#model_name="Qwen2.5-7B-Instruct"
+#model_name="Mistral-7B-Instruct-v0.3"
+#model_name="gemma-2b-it"
+
 epochs="2,1,3,2,1,2,2,3"
 reg=0.5
 
