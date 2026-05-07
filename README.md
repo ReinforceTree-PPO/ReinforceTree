@@ -1,6 +1,5 @@
 # ReinforceTree: PPO-Guided Adaptive LoRA Routing for Continual Learning
 
-> **Anonymous submission to NeurIPS 2026.** Please do not redistribute or deanonymize.
 
 This repository contains the official PyTorch implementation of **ReinforceTree**, which extends [TreeLoRA](https://proceedings.mlr.press/v267/qian24a.html) (ICML 2025) with a **PPO-based dynamic routing policy** for continual learning. Method details, theoretical analysis, and experimental results are described in the accompanying paper.
 
