@@ -140,14 +140,5 @@ We compare ReinforceTree against the following continual learning baselines used
 - **OGD** ([Farajtabar et al., AISTATS 2020](https://github.com/GMvandeVen/continual-learning)) — Orthogonal Gradient Descent for continual learning.
 - **GEM** ([Lopez-Paz & Ranzato, NeurIPS 2017](https://github.com/facebookresearch/GradientEpisodicMemory)) — Gradient Episodic Memory.
 
-## Citation
-
-```bibtex
-@misc{NeurIPS'26:ReinforceTree,
-    author = {Anonymous Authors},
-    title  = {ReinforceTree: PPO-Guided Adaptive LoRA Routing for Continual Learning},
-    year   = {2026},
-    note   = {Under review at NeurIPS 2026}
-}
 ```
 The citation entry will be updated to the official version upon publication.
